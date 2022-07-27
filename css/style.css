@@ -38,9 +38,7 @@ ul{
 }
 
 .flexContainer{
-
-   width: 33px;
-   margin: 0 auto;
+    display: flex;
 }
 .logo{
     height:100px;
