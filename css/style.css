@@ -9,6 +9,10 @@
 
 
 }
+.profilepic{
+    width: 500px;
+    height: auto;
+}
 nav{
     width: 73%;
     padding: 1%;
@@ -43,4 +47,7 @@ ul{
 .logo{
     height:100px;
     width:100px;
+}
+.skillscards {
+    display: flex;
 }
